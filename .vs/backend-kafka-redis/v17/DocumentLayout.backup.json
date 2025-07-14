@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9202BC6-1DCD-C36E-ECC5-049449E629A1}|tests\\Backend.UnitTests.csproj|c:\\users\\marcos\\source\\repos\\backend-kafka-redis\\tests\\backend.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9202BC6-1DCD-C36E-ECC5-049449E629A1}|tests\\Backend.UnitTests.csproj|solutionrelative:tests\\backend.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9202BC6-1DCD-C36E-ECC5-049449E629A1}|tests\\Backend.UnitTests.csproj|c:\\users\\marcos\\source\\repos\\backend-kafka-redis\\tests\\backend.unittests\\processingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9202BC6-1DCD-C36E-ECC5-049449E629A1}|tests\\Backend.UnitTests.csproj|solutionrelative:tests\\backend.unittests\\processingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B42AE0-774A-CE53-9668-E90D66398C22}|src\\Backend.Infrastructure\\Backend.Infrastructure.csproj|c:\\users\\marcos\\source\\repos\\backend-kafka-redis\\src\\backend.infrastructure\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B42AE0-774A-CE53-9668-E90D66398C22}|src\\Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:src\\backend.infrastructure\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF36B35-23E2-91A9-1946-BC8B2D41198A}|src\\Backend.API\\Backend.API.csproj|c:\\users\\marcos\\source\\repos\\backend-kafka-redis\\src\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF36B35-23E2-91A9-1946-BC8B2D41198A}|src\\Backend.API\\Backend.API.csproj|solutionrelative:src\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend.UnitTests",
+              "DocumentMoniker": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\tests\\Backend.UnitTests.csproj",
+              "RelativeDocumentMoniker": "tests\\Backend.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\tests\\Backend.UnitTests.csproj",
+              "RelativeToolTip": "tests\\Backend.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T04:21:34.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\src\\Backend.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Backend.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\src\\Backend.API\\Program.cs",
+              "RelativeToolTip": "src\\Backend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:27:34.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\src\\Backend.Infrastructure\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "src\\Backend.Infrastructure\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\src\\Backend.Infrastructure\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "src\\Backend.Infrastructure\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:15:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessingTests.cs",
+              "DocumentMoniker": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\tests\\Backend.UnitTests\\ProcessingTests.cs",
+              "RelativeDocumentMoniker": "tests\\Backend.UnitTests\\ProcessingTests.cs",
+              "ToolTip": "C:\\Users\\MARCOS\\source\\repos\\backend-kafka-redis\\tests\\Backend.UnitTests\\ProcessingTests.cs",
+              "RelativeToolTip": "tests\\Backend.UnitTests\\ProcessingTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:32:12.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

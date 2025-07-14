@@ -1,0 +1,23 @@
+###
+# Variável para o endereço da API:
+@api_host = http://localhost:8088
+
+###
+
+# Validação do desafio:
+
+# ----------------------------------------------------
+# TESTE DE CONSULTA DE PEDIDO (CASO DE SUCESSO)
+# ----------------------------------------------------
+
+GET {{api_host}}/order/id-que-existe
+Accept: application/json
+
+###
+
+# ----------------------------------------------------
+# TESTE PARA UM PEDIDO NÃO ENCONTRADO (404)
+# ----------------------------------------------------
+
+GET {{api_host}}/order/id-que-nao-existe
+Accept: application/json
