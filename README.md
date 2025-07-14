@@ -52,12 +52,12 @@ Certifique-se de que você tem o **.NET 8 SDK** e o **Docker Desktop** instalado
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <https://github.com/marcosribeiro-dev/backend-kafka-redis.git>
+    git clone https://github.com/marcosribeiro-dev/backend-kafka-redis.git
     ```
 
 2.  **Navegue até a pasta raiz:**
     ```bash
-    cd <backend-kafka-redis>
+    cd backend-kafka-redis
     ```
 
 3.  **Suba o ambiente completo:**
