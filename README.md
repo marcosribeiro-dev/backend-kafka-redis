@@ -20,8 +20,6 @@ A regra de dependência é sempre do exterior para o interior:
 
 **API (Apresentação) → Infrastructure → Application → Domain**
 
-![Diagrama de Arquitetura](https://i.imgur.com/8sLYm2x.png)
-
 ### 📁 Estrutura dos Projetos
 
 A solução está organizada da seguinte forma:
@@ -54,12 +52,12 @@ Certifique-se de que você tem o **.NET 8 SDK** e o **Docker Desktop** instalado
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone <https://github.com/marcosribeiro-dev/backend-kafka-redis.git>
     ```
 
 2.  **Navegue até a pasta raiz:**
     ```bash
-    cd <pasta-raiz-do-projeto>
+    cd <backend-kafka-redis>
     ```
 
 3.  **Suba o ambiente completo:**
